@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SBMCODED
 - 👀 I’m interested in machine learning /Artifical intelligence 
 - 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on more project in the field of Ai
+- 💞️ I’m looking forward to collaborate on more project in the field of Ai
 - 📫 How to reach me sbmcoded030@gmail.com 
 
 <!---
